@@ -3,7 +3,7 @@ this is my first Repository.
 <br>
 Author-Suman Mishra
 <br>
-<h1>to transfer githup repository </h1>
+<h1>to transfer github repository </h1>
 <ul>
 <li>go to setting</li>
 <li>scrool down</li>
